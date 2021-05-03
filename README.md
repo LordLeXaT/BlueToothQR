@@ -1,4 +1,4 @@
-# M5Stack Atom BlueTooth QR/Barcode reader
+# M5Stack Atom BlueTooth QR/Barcode Reader
 
  Quick and dirty adaption for the M5Stack Atom QR/Barcode scanner  
  to act as a virtual keyboard  
