@@ -6,6 +6,10 @@
    
  Once a code is scanned the BlueTooth keyboard is typing what ever is scanned  
  and hits the return key afterwards  
+ 
+## Needed libs other than M5Stack
+
+BlueTooth Keyboard library https://github.com/T-vK/ESP32-BLE-Keyboard  
   
 ## Usage 
 
